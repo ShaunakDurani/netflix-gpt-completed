@@ -1,3 +1,7 @@
+# Deployed Link
+
+https://netflixgpt-304bc.web.app
+
 # netflix gpt
 
 - Create react app
